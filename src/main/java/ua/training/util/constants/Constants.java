@@ -9,4 +9,11 @@ public interface Constants {
 
     String CURRENCY_REGEX           = "(USD)|(EUR)|(RUB)";
     Integer CASH_TO_FILTER          = 10000;
+
+    String USAGE = "To use program use next commands:\njava parser 'xmlFilePath' - parses xml file\n" +
+            "java parser -currency  -   parses current currency rate and writes to parsingOutput.txt\n" +
+            "java currency 'currency-list' - parses currency rate to following currency codes\n\t" +
+            "(Example: java parser -currency USD RUB EUR).";
+
+    String CURRENCY_PARAMETER       = "-currency";
 }

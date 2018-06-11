@@ -1,3 +1,5 @@
 Person{name='John', address='Pravdy street, 23B', cash='25000'}
 Person{name='Vasiliy', address='Bakinskya street, 11A', cash='15000'}
+Person{name='Bob', address='Pyshkinskya street, 12', cash='5000'}
+Person{name='Anatoliy', address='Heroev street, 13A', cash='9000'}
 Person{name='Peet', address='Arsenyalna street, 12', cash='18000'}

@@ -1,0 +1,46 @@
+<?xml version="1.0"?>
+
+<catalog>
+    <notebook>
+        <person id = "1">
+            <name>John</name>
+            <address>Pravdy street, 23B</address>
+            <cash>25000</cash>
+            <education>NTUU KPI</education>
+        </person>
+
+        <person id = "2">
+            <name>Vasiliy</name>
+            <address>Bakinskya street, 11A</address>
+            <cash>15000</cash>
+            <education>NTUU KPI</education>
+        </person>
+
+        <person id = "3">
+            <name>Bob</name>
+            <address>Pyshkinskya street, 12</address>
+            <cash>5000</cash>
+            <education>NTUU KPI</education>
+        </person>
+
+    </notebook>
+
+    <notebook>
+
+        <person id = "4">
+            <name>Anatoliy</name>
+            <address>Heroev street, 13A</address>
+            <cash>9000</cash>
+            <education>NTUU KPI</education>
+        </person>
+
+        <person id = "5">
+            <name>Peet</name>
+            <address>Arsenyalna street, 12</address>
+            <cash>18000</cash>
+            <education>NTUU KPI</education>
+        </person>
+
+    </notebook>
+
+</catalog>
